@@ -1,6 +1,6 @@
 # Krita Hold-To-Show PopupPalette
 A little AutoHotkey script that allow you to hold a key to show the popup palette conveniently.
-What the script does is simply map a key-down and key-up event to two separated key press to simulate the press-and-hold to activate mechanism.
+What the script does is simply map a key-down and a key-up event to two separated key presses to simulate the press-and-hold to activate mechanism.
 
 ## Requirement
 
