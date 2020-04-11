@@ -11,6 +11,8 @@ A precompiled compiled executable is also available but this one has hardcoded k
 
 Right click [Here](https://github.com/fantasyz/Krita_Hold_To_Show_Popup_Palette/raw/master/Script/Krita%20Hold_To_Show_PopupPalette.ahk) and "Save as" to download the **script (.ahk) version**.
 
+It is only for previewing the hold and show behaviour. Not for daily use as picking brush from the popup has side effect!
+
 Or
 
 Right click [Here](https://github.com/fantasyz/Krita_Hold_To_Show_Popup_Palette/raw/master/Bin/Krita_Hold_To_Show_PopupPalette.exe) and "Save as" to download the **Executable (.exe) version**.
@@ -28,4 +30,7 @@ If you want to change it, just open the  script (.ahk file) in a text editor and
 
 ## Known Issue
 
+When picking a brush, the popup will auto close, with the script also trigger when key up, that will bring back the popup. So cannot be used to pick a brush...
+
 If you manage to change the key setting from Shift+P to something else, just don't change to use Mouse R Click. There is a delay when krita handling the r-click. Otherwise, the popup won't close when the hold is too short.
+
