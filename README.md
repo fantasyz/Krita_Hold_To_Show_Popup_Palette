@@ -25,3 +25,6 @@ The script assumed the following key setting but you can change them to your pre
 
 If you want to change it, just open the  script (.ahk file) in a text editor and change the R and Shift+P ( marked as +p ) in a few lines.
 
+## Known Issue
+
+If you manage to change the key setting from Shift+P to something else, just don't change to use Mouse R Click. There is a delay when krita handling the r-click. Otherwise, the popup won't close when the hold is too short.
